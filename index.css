@@ -1,0 +1,35 @@
+body{
+    background-color: #00314E;
+}
+
+#qbg{
+    position: absolute;
+    text-align: center;
+    background-color: #00A284;
+    width: 1000px;
+    height: 500px;
+    top: 60px;
+    left: 250px;
+}
+#quote{
+    font-family: Apple Chancery, cursive;
+    position: relative;
+    top: 75px;
+    font-size: 45px;
+    
+}
+#author{
+    position: relative;
+    top: 125px;
+    right: 10px;
+    font-size: 23px;
+}
+#quotechangebutton{
+    position: absolute;
+    top: 400px;
+    left: 27px;
+    width: 950px;
+    height: 50px;
+    font-size: 20px;
+    padding-top: 3px;
+}
